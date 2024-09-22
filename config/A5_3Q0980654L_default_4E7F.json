@@ -1,0 +1,15 @@
+{
+  "byte_config": {
+    "ds_version": "4L",
+    "block1_start": "0x3320",
+    "block1_end": "0x3637",
+    "block2_start": "0x3640",
+    "block2_end": "0x395F",
+    "chksum_pos": "0x3638",
+    "first_pos": "0x33A4",
+    "second_pos": "0x33AD",
+    "la_start": "0x3400",
+    "la_stop": "0x33FC",
+    "tj_pos": "0x363C"
+  }
+}
