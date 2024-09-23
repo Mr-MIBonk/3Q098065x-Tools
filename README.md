@@ -3,6 +3,9 @@
 
 ![Generator](https://github.com/Mr-MIBonk/3Q098065x-Tools/blob/main/3Q_Dataset_Generator.JPG)
 
+currently supported 3Q0980653F, 3Q0980654C, 3Q0980654F, 3Q0980654G, 3Q0980654H, 3Q0980654L, 3Q0980654Q
+I hope that I can spend some time in future to find the bytes for Index S, too.
+
 ## CAUTION:
 Be cautious with these modifications, it is all of your own risk, stay healthy and always drive according to the leagal road traffic regulations!
 # All you do and use at your own risk!
