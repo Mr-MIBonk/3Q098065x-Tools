@@ -11,7 +11,7 @@ Be cautious with these modifications, it is all of your own risk, stay healthy a
 This Tools make it possible to extends the warning parameters for the Lane Assistant e.g. like here https://github.com/Mr-MIBonk/Lane-Assistant-60-Seconds
 But this means that a vital function, the Emergency Assistant, will be pushed further into the future or rescue in an emergency is lost!
 It can change Lane Assistant Start and stop parameters, too.
-There are some LA profies, the 1499 ist interessting for Sterrig wheel vibrations ;-)
+There are some LA profies, the 1499 ist interessting for Sterrig wheel vibrations 😉
 
 ![Calculator](https://github.com/Mr-MIBonk/3Q098065x-Tools/blob/main/3Q_Config_Calculator.JPG)
 
