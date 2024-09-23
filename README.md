@@ -20,5 +20,4 @@ you can use the calculator to create a JSON config without having to do any calc
 
 ## NOTE:
 There are some very stupid idiots who just copy everything and change the intervention for making money!
-Do not support such sloppy and dangerous manipulations! Fuck all this copy/paste moneymakers who stole the work and don't pay for it!
-# All bastards who stolen and selling this should be fucked🖕
+Do not support such sloppy and dangerous manipulations! Fuck all this copy/paste moneymakers who stole the work and don't pay for it! 🖕
