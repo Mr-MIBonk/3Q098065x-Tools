@@ -18,6 +18,8 @@ There are some LA profies, the 1499 ist interessting for Sterrig wheel vibration
 If you think you have found a Byte in other software versions (e.g. Index S), 
 you can use the calculator to create a JSON config without having to do any calculations yourself in order to use the configuration with Dataset Generator or to check the data set.
 
+If anyone has found improvements or new configurations and would like an integration, just let us know!
+
 ## NOTE:
 There are some very stupid idiots who just copy everything and change the intervention for making money!
 Do not support such sloppy and dangerous manipulations! Fuck all this copy/paste moneymakers who stole the work and don't pay for it! 🖕
